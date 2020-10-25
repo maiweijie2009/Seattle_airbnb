@@ -1,7 +1,9 @@
 # Analysis of the Airbnb data of Seattle
-Project motivation:
+Motivation:
+This is part of the Udacity data science nanodegree course. The CRISP_DM process is used to analyze the AirBNB Seattle dataset.
 
-Udacity data science course
+Dataset:
+
 
 This Jupyter notebook is used to answer the following questions:
 Question1: What does it mean to be a superhost?

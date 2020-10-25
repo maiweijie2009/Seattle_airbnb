@@ -16,3 +16,11 @@ Calendar, including listing id and the price and availability for that day
 Python 3.7.6
 Numpy 1.18.5
 matplotlib 3.2.1
+
+#Business questions:
+
+1. What does it mean to be a superhost?
+
+2. What's relations between all price, weekly and montly price
+
+3. Time series of amount of reviews

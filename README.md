@@ -1,6 +1,7 @@
-# Seattle_airbnb
+# Analysis of the Airbnb data of Seattle
 Project motivation:
-Analysis of the Airbnb data of Seattle for Udacity data science course
+
+Udacity data science course
 
 This Jupyter notebook is used to answer the following questions:
 Question1: What does it mean to be a superhost?

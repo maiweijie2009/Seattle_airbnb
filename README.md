@@ -1,4 +1,5 @@
 # Seattle_airbnb
+Project motivation:
 Analysis of the Airbnb data of Seattle for Udacity data science course
 
 This Jupyter notebook is used to answer the following questions:
